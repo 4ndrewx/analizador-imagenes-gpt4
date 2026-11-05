@@ -1,4 +1,3 @@
-base64
 import base64
 import io
 from openai import OpenAI
